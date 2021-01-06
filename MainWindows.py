@@ -51,3 +51,4 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
         y=np.exp(x)
         plt.stem(x,y)
         plt.show()
+#q
